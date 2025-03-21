@@ -1,4 +1,3 @@
-
 import { Link } from 'react-router-dom';
 import { Instagram, Twitter, Facebook, Youtube, Mail, MapPin } from 'lucide-react';
 
@@ -10,7 +9,7 @@ const Footer = () => {
           <div className="space-y-4">
             <Link to="/" className="flex items-center gap-2 text-2xl font-bold text-chip-orange">
               <span className="text-3xl">🥔</span>
-              <span>ChipTopia</span>
+              <span>Chipeaters</span>
             </Link>
             <p className="text-muted-foreground">
               Discover and share the best potato chips from around the world.

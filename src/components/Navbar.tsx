@@ -37,7 +37,7 @@ const Navbar = () => {
       <div className="container mx-auto px-4 flex justify-between items-center">
         <Link to="/" className="flex items-center gap-2 text-2xl font-bold text-chip-orange">
           <span className="text-3xl">🥔</span>
-          <span className="animate-pulse-soft">ChipTopia</span>
+          <span className="animate-pulse-soft">Chipeaters</span>
         </Link>
         
         <div className="hidden md:flex items-center gap-8">
